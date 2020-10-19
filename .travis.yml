@@ -1,0 +1,4 @@
+arch: s390x
+services:
+  - docker
+script: docker login quay.io -u $ROBOT -p $ROBOT_TOKEN && docker build s390x/3.9/alpine3.11 --tag quay.io/ibmz/python:3.9 && docker push quay.io/ibmz/python
