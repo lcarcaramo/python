@@ -4,7 +4,7 @@
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
 
-FROM quay.io/ibmz/alpine:3.11
+FROM quay.io/ibmz/alpine:3.12
 
 # ensure local python is preferred over distribution python
 ENV PATH /usr/local/bin:$PATH
