@@ -15,7 +15,7 @@ Python is an interpreted, interactive, object-oriented, open-source programming 
 ## Create a `Dockerfile` in your Python app project
 
 ```dockerfile
-FROM python:3
+FROM quay.io/ibmz/python:3.9
 
 WORKDIR /usr/src/app
 
