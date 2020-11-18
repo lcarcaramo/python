@@ -1,4 +1,4 @@
-FROM quay.io/ibmz/python:3.9
+FROM quay.io/ibmz/python:3.8
 
 WORKDIR /usr/src/app
 
