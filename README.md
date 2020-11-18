@@ -1,5 +1,6 @@
 # Tags
 > _Built from [`quay.io/ibmz/alpine:3.12`](https://quay.io/repository/ibmz/alpine?tab=info)_
+-	[`3.8`](https://github.com/lcarcaramo/python/blob/3.8/s390x/3.8/alpine3.12/Dockerfile) - [![Build Status](https://travis-ci.com/lcarcaramo/python.svg?branch=3.8)](https://travis-ci.com/lcarcaramo/python)
 -	[`3.9`](https://github.com/lcarcaramo/python/blob/master/s390x/3.9/alpine3.12/Dockerfile) - [![Build Status](https://travis-ci.com/lcarcaramo/python.svg?branch=master)](https://travis-ci.com/lcarcaramo/python)
 
 # What is Python?
